@@ -22,7 +22,7 @@ Pocket Control es una aplicación web desarrollada con React que permite gestion
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/pocket-control.git
+   git clone https://github.com/kevirui/Pocket-Control.git
    cd pocket-control
    ```
 
